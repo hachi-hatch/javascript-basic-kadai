@@ -3,5 +3,6 @@ let weight;
 
 height = 1.7;
 weight = 68;
+let bmi = weight/(height*height)
 
-console.log(weight/(height*height));
+console.log(bmi);
